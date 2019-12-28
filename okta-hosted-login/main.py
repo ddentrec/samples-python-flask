@@ -39,4 +39,4 @@ def logout():
 
 
 if __name__ == '__main__':
-    app.run(host="localhost", port=8080, debug=True)
+    app.run(host="okta-hosted-ddentrec.herokuapp.com", port=443, debug=True)
